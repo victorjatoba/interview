@@ -34,7 +34,7 @@ grid = [
     // }
   
     let startingPosition: Cell = {x: 0, y: 0}
-    checkNearby(gridA, startingPositiona);
+    checkNearby(gridA, startingPosition);
   }
   
   function checkNearby(grid: number[][], cell: Cell) {
